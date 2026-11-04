@@ -2,7 +2,7 @@
 import html
 
 CONFIG = {
-    "nome": "SEU NOME",
+    "nome": "Gabriel Almeida",
     "subtitulo": "DESENVOLVEDOR FULLSTACK EM FORMAÇÃO",
     "exp": 50,  # 0-100
     "atributos": [  # (nome, nível de 0 a 5)
