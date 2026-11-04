@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 40" height="40" width="162">
+<rect width="162" height="40" fill="#000000"/>
+<rect x="2" y="2" width="158" height="36" fill="none" stroke="#ffffff" stroke-width="3"/>
+<g transform="translate(18,11)"><polygon points="0,0 0,14 12,7" fill="#ffffff"/></g>
+<text x="46" y="25" fill="#ffffff" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" letter-spacing="2">LINKEDIN</text>
+</svg>

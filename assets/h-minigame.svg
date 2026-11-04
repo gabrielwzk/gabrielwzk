@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 26" width="100%">
+<rect width="880" height="26" fill="#0d1117"/>
+<rect x="6" y="8" width="9" height="9" fill="#ffffff" transform="rotate(45 10.5 12.5)"/>
+<text x="26" y="17" fill="#ffffff" font-family="'Courier New', Courier, monospace" font-size="14" letter-spacing="2">MINIGAME</text>
+<line x1="120" x2="876" y1="10" y2="10" stroke="#ccc" stroke-width="1"/>
+<line x1="120" x2="876" y1="15" y2="15" stroke="#ccc" stroke-width="1"/>
+</svg>

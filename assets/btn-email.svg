@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 40" height="40" width="140">
+<rect width="140" height="40" fill="#000000"/>
+<rect x="2" y="2" width="136" height="36" fill="none" stroke="#ffffff" stroke-width="3"/>
+<g transform="translate(18,11)"><rect x="0" y="0" width="16" height="12" fill="none" stroke="#ffffff" stroke-width="1.5"/><polyline points="0,0 8,7 16,0" fill="none" stroke="#ffffff" stroke-width="1.5"/></g>
+<text x="46" y="25" fill="#ffffff" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="bold" letter-spacing="2">E-MAIL</text>
+</svg>
