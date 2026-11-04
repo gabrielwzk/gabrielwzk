@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Banner" width="100%">
 
-### > SEU_CURSO
+### > Engenharia de Software
 
 <a href="https://linkedin.com/in/gabriel-almeida-108336389"><b>▶ LINKEDIN</b></a> ·
 <a href="mailto:seu@email.com"><b>✉ E-MAIL</b></a> ·
