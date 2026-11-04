@@ -26,7 +26,7 @@
 
 ## ◆ MINIGAME
 
-<img src="assets/pacman-contribution-graph.svg" alt="Minigame" width="100%">
+<img src="dist/pacman-contribution-graph.svg" alt="Minigame" width="100%">
 
 <div align="center">
 
