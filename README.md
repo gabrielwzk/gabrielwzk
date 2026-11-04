@@ -4,7 +4,7 @@
 
 ### > SEU_CURSO
 
-<a href="https://linkedin.com/in/gabriel-almeida"><b>▶ LINKEDIN</b></a> ·
+<a href="https://linkedin.com/in/gabriel-almeida-108336389"><b>▶ LINKEDIN</b></a> ·
 <a href="mailto:seu@email.com"><b>✉ E-MAIL</b></a> ·
 <b>📍 São Paulo</b>
 
@@ -33,7 +33,7 @@
 ### CONTINUE?
 *insira uma oportunidade de estágio*
 
-<a href="https://linkedin.com/in/gabriel-almeida"><b>▶ LINKEDIN</b></a> ·
+<a href="https://linkedin.com/in/gabriel-almeida-108336389"><b>▶ LINKEDIN</b></a> ·
 <a href="mailto:seu@email.com"><b>✉ E-MAIL</b></a>
 
 <img src="assets/footer.svg" alt="Obrigado por jogar" width="100%">
